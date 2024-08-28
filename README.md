@@ -16,19 +16,44 @@ Each folder in this repository contains code and files related to a specific top
 ## Technology Introductions
 
 ### HTML (HyperText Markup Language)
-HTML is the standard markup language used to create and design web pages. It structures the content on the web and defines elements such as headings, paragraphs, links, images, and more.
+HTML is the standard markup language used to create and design web pages. It structures the content on the web and defines elements such as:
+- **Tags**: `<html>`, `<head>`, `<body>`, `<h1>`, `<p>`, `<a>`, `<img>`, `<div>`, `<span>`, `<form>`, `<input>`, `<button>`, `<table>`, etc.
+- **Attributes**: `id`, `class`, `href`, `src`, `alt`, etc.
+- **Forms**: `<form>`, `<input>`, `<textarea>`, `<select>`, `<button>`
 
 ### CSS (Cascading Style Sheets)
-CSS is a stylesheet language used to describe the presentation of a document written in HTML. It controls the layout, colors, fonts, and overall design of web pages, allowing for responsive and visually appealing designs.
+CSS is used to describe the presentation of a document written in HTML. It controls the layout, colors, fonts, and overall design of web pages. Key topics include:
+- **Selectors**: Type, class, ID, attribute selectors.
+- **Box Model**: Margin, border, padding, content.
+- **Flexbox & Grid**: Layout techniques for responsive designs.
+- **Positioning**: `static`, `relative`, `absolute`, `fixed`, `sticky`.
+- **Responsive Design**: Media queries, viewport units.
 
 ### JavaScript
-JavaScript is a versatile programming language that enables dynamic content and interactivity on web pages. It allows developers to create responsive features, handle events, manipulate the DOM, and build complex web applications.
+JavaScript is a versatile programming language that enables dynamic content and interactivity on web pages. Important topics include:
+- **Syntax & Operators**: Variables, data types, operators.
+- **Control Structures**: `if`, `else`, `switch`, loops (`for`, `while`, `do-while`).
+- **Functions**: Function declarations, expressions, arrow functions.
+- **DOM Manipulation**: `getElementById`, `querySelector`, event handling.
+- **ES6 Features**: Let/const, template literals, destructuring, modules.
 
 ### Data Structures
-Data Structures are ways of organizing and storing data to perform operations efficiently. Understanding data structures such as arrays, linked lists, stacks, queues, trees, and graphs is crucial for solving computational problems and optimizing algorithms.
+Data Structures are ways of organizing and storing data to perform operations efficiently. Key data structures include:
+- **Arrays**: Index-based collection.
+- **Linked Lists**: Nodes with pointers.
+- **Stacks & Queues**: LIFO and FIFO structures.
+- **Trees**: Binary trees, binary search trees.
+- **Graphs**: Nodes and edges representation.
+- **Hash Tables**: Key-value pairs.
 
 ### React.js
-React.js is a JavaScript library for building user interfaces. It allows developers to create reusable UI components and manage application state efficiently. React's component-based architecture makes it a popular choice for developing modern web applications.
+React.js is a JavaScript library for building user interfaces. Important concepts include:
+- **Components**: Functional and class components.
+- **JSX**: Syntax extension for React.
+- **Props & State**: Managing component data.
+- **Lifecycle Methods**: Component lifecycle hooks.
+- **Hooks**: `useState`, `useEffect`, custom hooks.
+- **Routing**: `react-router` for navigation.
 
 ## Learning Resources
 
@@ -37,22 +62,18 @@ Here are some valuable resources that I use for learning and practicing:
 - **HTML & CSS**
   - [W3Schools - HTML](https://www.w3schools.com/html/) - Comprehensive tutorials and references for HTML.
   - [W3Schools - CSS](https://www.w3schools.com/css/) - Comprehensive tutorials and references for CSS.
-  - [Traversy Media - HTML Crash Course](https://www.youtube.com/watch?v=UB1O30fR-EE) - Beginner-friendly HTML crash course.
-  - [Traversy Media - CSS Crash Course](https://www.youtube.com/watch?v=yfoY53QXEnI) - Beginner-friendly CSS crash course.
+  - [CodeWithHarry - HTML & CSS Tutorial in Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9ah9gk2tS_S2Y9CpK3w2bHu) - Beginner-friendly HTML and CSS tutorials in Hindi.
 
 - **JavaScript**
-  - [W3Schools - JavaScript](https://www.w3schools.com/js/) - Tutorials and references for JavaScript.
-  - [Traversy Media - JavaScript Crash Course](https://www.youtube.com/watch?v=hdI2bqOjy3c) - Beginner-friendly JavaScript crash course.
-  - [The Net Ninja - JavaScript Tutorial for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9iWgXcO8lu1P2z_jwYwZ9K0) - A comprehensive JavaScript tutorial series.
+  - [CodeWithHarry - JavaScript Tutorial in Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9ag4D4w8Wlj0qR4i6t4NR55) - JavaScript tutorials in Hindi.
+  - [Geeky Shows - JavaScript Full Course in Hindi](https://www.youtube.com/playlist?list=PLU-Mc40q7bMTYLwOH5_ekUylzLgGQgoTg) - Full course on JavaScript in Hindi.
 
 - **Data Structures**
-  - [GeeksforGeeks - Data Structures](https://www.geeksforgeeks.org/data-structures/) - Articles and tutorials on various data structures.
-  - [Abdul Bari - Data Structures & Algorithms](https://www.youtube.com/playlist?list=PLlF1n3eYhGQ7F9wJXr0k0L4XgD5H6pZOH) - Data Structures and Algorithms tutorials.
+  - [CodeWithHarry - Data Structures & Algorithms in Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9akzQ-WldkdmfR60lG3tT09) - Tutorials on data structures and algorithms in Hindi.
 
 - **React.js**
-  - [React Official Documentation](https://reactjs.org/docs/getting-started.html) - Official React documentation and tutorial.
-  - [Traversy Media - React JS Crash Course](https://www.youtube.com/watch?v=sBws8MSXN7A) - Beginner-friendly React.js crash course.
-  - [The Net Ninja - React Tutorial for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gcyfXW20kBQxz-Z4KXWT5N) - A comprehensive React tutorial series.
+  - [CodeWithHarry - React JS Tutorial in Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9aisYIfW8LlBpx-azw55JzU) - React.js tutorials in Hindi.
+  - [Geeky Shows - React JS in Hindi](https://www.youtube.com/playlist?list=PLU-Mc40q7bMTvJOD_7eFCf63IQ-d5J0Tz) - React.js tutorials in Hindi.
 
 - **Free Projects and Practice Sites**
   - [Frontend Mentor](https://www.frontendmentor.io/) - Frontend challenges to practice HTML, CSS, and JavaScript.
