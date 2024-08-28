@@ -1,6 +1,6 @@
 # Kusum Chauhan's Learning Repository
 
-Welcome to my GitHub repository! My name is Kusum Chauhan, and I am currently learning HTML, CSS, JavaScript, Data Structures, and React.js. This repository serves as a personal learning log where I maintain and organize my code and notes for each of these technologies.
+Welcome to my GitHub repository! My name is Kusum Chauhan, and I am currently learning HTML, CSS, JavaScript, Data Structures, React.js, and Python. This repository serves as a personal learning log where I maintain and organize my code and notes for each of these technologies.
 
 ## Repository Structure
 
@@ -12,6 +12,7 @@ Each folder in this repository contains code and files related to a specific top
 - `javascript/`: Contains JavaScript practice and projects.
 - `data-structures/`: Implements and explores various data structures.
 - `react-js/`: Contains projects and exercises related to React.js.
+- `python/`: Contains Python code, tutorials, and projects.
 
 ## Technology Introductions
 
@@ -55,6 +56,37 @@ React.js is a JavaScript library for building user interfaces. Important concept
 - **Hooks**: `useState`, `useEffect`, custom hooks.
 - **Routing**: `react-router` for navigation.
 
+### Python
+Python is a versatile programming language used for web development, data analysis, artificial intelligence, and more. Key topics and frameworks include:
+
+- **Basics**:
+  - **Syntax**: Variables, data types, operators.
+  - **Control Structures**: `if`, `else`, `elif`, loops (`for`, `while`).
+  - **Functions**: Function definitions, arguments, return values.
+  - **Exception Handling**: `try`, `except`, `finally`, `raise`.
+
+- **Data Structures**:
+  - **Lists**: Indexing, slicing, list methods, list comprehensions.
+  - **Tuples**: Immutable sequences, tuple unpacking.
+  - **Dictionaries**: Key-value pairs, dictionary methods, dictionary comprehensions.
+  - **Sets**: Unordered collections of unique elements, set operations.
+
+- **Object-Oriented Programming**:
+  - **Classes & Objects**: Class definitions, instance methods, class methods.
+  - **Inheritance**: Base and derived classes, method overriding.
+  - **Polymorphism**: Method overriding and operator overloading.
+
+- **Libraries**:
+  - **NumPy**: Numerical computing and array operations.
+  - **Pandas**: Data manipulation and analysis.
+  - **Matplotlib**: Data visualization and plotting.
+  - **Scikit-Learn**: Machine learning algorithms and tools.
+
+### Python Frameworks
+- **Django**: High-level web framework for building web applications.
+- **Flask**: Lightweight web framework for creating web applications.
+- **FastAPI**: Modern web framework for building APIs with Python 3.6+.
+
 ## Learning Resources
 
 Here are some valuable resources that I use for learning and practicing:
@@ -74,6 +106,16 @@ Here are some valuable resources that I use for learning and practicing:
 - **React.js**
   - [CodeWithHarry - React JS Tutorial in Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9aisYIfW8LlBpx-azw55JzU) - React.js tutorials in Hindi.
   - [Geeky Shows - React JS in Hindi](https://www.youtube.com/playlist?list=PLU-Mc40q7bMTvJOD_7eFCf63IQ-d5J0Tz) - React.js tutorials in Hindi.
+
+- **Python**
+  - [CodeWithHarry - Python Tutorial in Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9agB4W5Yj1h0wn6YfqYQsyE) - Python tutorials in Hindi.
+  - [Geeky Shows - Python Full Course in Hindi](https://www.youtube.com/playlist?list=PLU-Mc40q7bMTt8G7AHEcRbuQwK2qRmWgG) - Full course on Python in Hindi.
+
+- **Data Analysis Libraries**
+  - [NumPy Documentation](https://numpy.org/doc/stable/) - Official NumPy documentation.
+  - [Pandas Documentation](https://pandas.pydata.org/docs/) - Official Pandas documentation.
+  - [Matplotlib Documentation](https://matplotlib.org/stable/contents.html) - Official Matplotlib documentation.
+  - [Scikit-Learn Documentation](https://scikit-learn.org/stable/documentation.html) - Official Scikit-Learn documentation.
 
 - **Free Projects and Practice Sites**
   - [Frontend Mentor](https://www.frontendmentor.io/) - Frontend challenges to practice HTML, CSS, and JavaScript.
@@ -98,11 +140,15 @@ Here are some valuable resources that I use for learning and practicing:
    - Learn the basics of React and component-based architecture.
    - Build projects using React to practice state management and component reusability.
 
-5. **Build Projects**
+5. **Learn Python**
+   - Master Python basics and explore libraries for data analysis.
+   - Work on Python projects and explore frameworks like Django or Flask.
+
+6. **Build Projects**
    - Create a portfolio of projects to showcase your skills.
    - Contribute to open-source projects or collaborate with others.
 
-6. **Stay Updated**
+7. **Stay Updated**
    - Follow industry trends and continuously learn new technologies and best practices.
 
 Thank you for visiting my repository!
